@@ -1,5 +1,15 @@
-app/__pycache__/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env/
+app.db
+.pytest_cache/
 app/.pytest_cache/
+app/__pycache__/
 app/*.pyc
 app/*.pyo
 app/*.pyd
+.vscode/
+*.log
